@@ -1,3 +1,7 @@
+Merged into [kasthack.Performance](https://github.com/old-kasthack-s-projects/kasthack.Performance)
+=======================
+
+
 fastrandom
 ==========
 
